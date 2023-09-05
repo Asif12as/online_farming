@@ -1,6 +1,6 @@
 # online_farming
 
-# Online Farm System using PHP, MySQL, CSS, and JavaScript
+# Farm application using PHP, MySQL, CSS, and JavaScript
 
 ![Project Logo](link_to_logo_if_available)
 
